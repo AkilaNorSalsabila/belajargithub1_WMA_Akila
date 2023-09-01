@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     public MainActivity() {
         int a;
+        int b;
 
 
     }
